@@ -2,7 +2,6 @@
 import {
   Container,
   Box,
-  Grid2,
   Stack,
   CssBaseline,
   ThemeProvider,
